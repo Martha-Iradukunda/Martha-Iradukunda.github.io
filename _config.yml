@@ -2,7 +2,7 @@
 title: "</Marita>"
 email: "marita.martha23@gmail.com"
 description: >-
-  Software Developer | Technical Support | Portfolio showcasing resume, projects, lab challenges, and community impact.
+  "Software Developer | Technical Support | Portfolio showcasing resume, projects, lab challenges, and community impact."
 github_username: Martha-Iradukunda
 search: true
 
@@ -29,10 +29,8 @@ plugins:
 author:
   name   : "Martha I. Rekeraho"
   avatar : "/assets/images/bio-photo.jpg"   # replace with your photo in assets/images
-  bio    : >
-    Applied Computer Technology graduate | Full-Stack Developer | 
-    IT Support | Cisco Ethical Hacker | Andela Alumni | 
-    Microsoft ADC WINS Mentee-GMI | Passionate about tech solutions & community impact
+    bio  : "Applied Computer Technology graduate | Full-Stack Developer | IT Support | Cisco Ethical Hacker | Andela Alumni | Microsoft ADC WINS Mentee-GMI | Passionate about tech solutions & community impact"
+
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
