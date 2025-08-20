@@ -1,16 +1,14 @@
 # Site settings
-title: "Martha I. Rekeraho"
+title: "</Marita>"
 email: "marita.martha23@gmail.com"
-description: >- 
+description: >-
   Software Developer | Technical Support | Portfolio showcasing resume, projects, lab challenges, and community impact.
 github_username: Martha-Iradukunda
-minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-
+remote_theme: mmistakes/minimal-mistakes   # required for theme, but won’t show anywhere
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
@@ -24,7 +22,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -32,7 +29,7 @@ plugins:
 author:
   name   : "Martha I. Rekeraho"
   avatar : "/assets/images/bio-photo.jpg"   # replace with your photo in assets/images
-  bio    : "Software Developer passionate about full-stack engineering, UI/UX, and ethical hacking. Microsoft ADC WINS member."
+  bio    : "Applied Computer Technology graduate | Full-Stack Developer | IT Support | Cisco Ethical Hacker | Andela Alumni | Microsoft ADC WINS Mentee-GMI | Passionate about tech solutions & community impact"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -47,8 +44,9 @@ author:
       icon: "fas fa-fw fa-phone"
       url: "tel:+254790367122"
 
-# Footer links
+# Footer
 footer:
+  content: "© 2025 Martha I. Rekeraho. Powered by Marita."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -91,11 +89,3 @@ navigation:
     url: /lab-challenges/
   - title: "Contacts"
     url: /contacts/
-
-# Archives
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
