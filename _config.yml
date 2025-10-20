@@ -46,18 +46,7 @@ author:
       url: "tel:+254790367122"
 
 # Footer
-footer:
-  content: "© 2025 Martha I. Rekeraho. Powered by Marita."
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://tinyurl.com/3njn2wzb"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://tinyurl.com/mvzx3bvu"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:marita.martha23@gmail.com"
+
 
 # Defaults
 defaults:
