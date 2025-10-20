@@ -1,27 +1,36 @@
-# Minimal Mistakes remote theme starter
+# 🌟 My Personal Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+Welcome to my **personal portfolio website** — a space where I share my **career journey**, **projects**, and **achievements**.  
+This site serves as my **digital CV**, showcasing my **professional experience**, **academic background**, and **personal initiatives** in technology and community impact.
 
 ---
 
-## Troubleshooting
+## 🧭 About This Website
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+This website highlights:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+- 👩🏽‍💻 **Professional Experience** — A timeline of my internships, roles, and contributions in software development, product design, and technical training.  
+- 🎓 **Education & Honors** — Academic milestones, including my **BSc. in Applied Computer Technology** (Software Engineering concentration) from **United States International University–Africa**, where I graduated **Magna Cum Laude**.  
+- 💼 **Projects** — A portfolio of personal and collaborative projects that demonstrate my technical skills, problem-solving abilities, and passion for building impactful solutions.  
+- ✍🏽 **Blog Section** — A growing collection of reflections, insights, and updates on my learning journey, tech interests, and leadership experiences.  
+- 🌍 **Community Engagement** — Highlights of outreach and mentorship initiatives focused on **empowering youth through digital skills** and promoting innovation.
+
+---
+
+## 🌐 Visit the Website
+
+👉 **[Click here to explore my website](https://marthaire.github.io)**
+
+---
+
+## 📬 Connect With Me
+
+I’m open to collaborations, mentorship opportunities, and meaningful conversations around technology, innovation, and community impact.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/martha-iradukunda)  
+- 🐙 [GitHub](https://github.com/marthaire)  
+- ✉️ [marita.martha23@gmail.com](mailto:marita.martha23@gmail.com)
+
+---
+
+> “The future belongs to those who learn, build, and share.” ✨
