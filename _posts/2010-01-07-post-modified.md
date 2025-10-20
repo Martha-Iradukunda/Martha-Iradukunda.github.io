@@ -1,14 +1,18 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Graduation Announcement 🎓"
+date: 2025-09-27T16:20:02-05:00
+last_modified_at: 2025-09-27T16:20:02-05:00
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Graduation
+  - Achievement
+  - Education
+  - USIU-Africa
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+I am proud to share that on **27th September 2025**, I officially **graduated from United States International University–Africa (USIU–Africa)** in Nairobi, Kenya, with a **Bachelor of Science in Applied Computer Technology**, concentrating in **Software Engineering**.  
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+I graduated with **_Magna Cum Laude_ honors** 🏅 and was listed on the **Dean’s List every semester** throughout my studies (2021–2025).  
+
+This milestone reflects years of dedication, growth, and support from mentors, peers, and my family. I’m excited for the journey ahead as I continue to build impactful solutions in the tech space.
