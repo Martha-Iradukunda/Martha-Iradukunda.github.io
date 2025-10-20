@@ -6,7 +6,7 @@ Applied Computer Technology bachelor’s degree with a concentration in Software
 
 ---
 permalink: /about/
-title: "PROFESSIONAL WORK EXPERIENCE ……………………………………………………………………………………………………"
+<span style="color:#0056b3;">PROFESSIONAL WORK EXPERIENCE ……………………………………………………………………………………………………</span>
 ---
 
 **<span style="color:#0056b3;">KCB Bank Kenya</span> – Product Development Intern | Feb–May 2025**  
