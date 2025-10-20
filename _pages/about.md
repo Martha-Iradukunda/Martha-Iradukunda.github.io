@@ -5,7 +5,6 @@ title: "My Summary"
 Applied Computer Technology bachelor’s degree with a concentration in Software Engineering, graduated with Magna Cum Laude honors in September 2025. Outstanding ability in user-centered design, UI/UX prototyping after KCB Bank internship training, and full-stack development with strong community engagement. Experienced in developing scalable digital solutions, designing accessible interfaces, and leading innovation projects that empower underserved communities. Recognized for academic excellence (Dean’s List every semester) and leadership through initiatives such as the Rita Computing & Secretariat Initiative and Ubuzima Mill Solutions.
 
 ---
-permalink: /about/
 <span style="color:#0056b3;">PROFESSIONAL WORK EXPERIENCE ……………………………………………………………………………………………………</span>
 ---
 
