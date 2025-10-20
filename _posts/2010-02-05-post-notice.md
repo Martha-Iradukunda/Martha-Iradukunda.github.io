@@ -5,64 +5,34 @@ categories:
 tags:
   - Post Formats
   - notice
+  - career
+  - achievements
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
-
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
-
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
+Over the past few years, I’ve built a solid foundation as a **Software Developer, Technical Support Specialist, and Entrepreneur** — blending **technical expertise**, **community leadership**, and a deep commitment to **creating impactful solutions**.  
 {: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Professional Experience:**  
+From designing **intuitive user interfaces** at *KCB Bank Kenya* to **training high school students** in software development, and collaborating on **full-stack projects with Andela**, my journey has been driven by curiosity, adaptability, and teamwork. Each experience has sharpened my skills in UI/UX design, front-end and back-end development, and problem-solving in real-world environments.  
 {: .notice--primary}
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
+**Leadership & Community Impact:**  
+Beyond the workplace, I’ve founded the *Rita Computing & Secretariat Initiative* to equip youth in Rwanda with digital skills and *Ubuzima Mill Solutions* to reduce post-harvest food loss. These initiatives reflect my passion for using technology to address real community challenges.  
 {: .notice--info}
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
-
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
+**Continuous Learning:**  
+My growth has been fueled by continuous learning through programs like **Cisco Cyber Shujaa**, **IBM Fundamentals**, and **Career Readiness Mentorship** with GMI. I’ve also earned multiple industry certifications and consistently made the Dean’s List, graduating **Magna Cum Laude**.  
 {: .notice--success}
 
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
-
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
 {% capture notice-2 %}
-#### New Site Features
+#### Highlights
 
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
+- **UI/UX Design** using Figma, wireframing & prototyping for user-centered products.  
+- **Full-stack Development** with Angular, React, Spring Boot, and Node.js.  
+- **Cybersecurity Skills** through Cisco Ethical Hacking & Threat Management programs.  
+- **Leadership & Service**, mentoring students and leading community tech initiatives.  
 {% endcapture %}
 
 <div class="notice">
   {{ notice-2 | markdownify }}
-</div>
-
-Or you could skip the capture and stick with straight HTML.
-
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
 </div>
