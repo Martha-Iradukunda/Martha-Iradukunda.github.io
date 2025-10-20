@@ -5,8 +5,13 @@ categories:
 tags:
   - Post Formats
   - quote
+  - career
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> “Technology is more than code — it’s a bridge to opportunity. I’m driven to design, build, and lead solutions that empower communities and create lasting impact.”
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite>— Martha Iradukunda Rekeraho</cite>
+
+> “Continuous learning and resilience have shaped my journey — from mentoring students to developing scalable solutions and leading innovation in underserved communities.”
+  
+> <cite>— Personal Reflection</cite>
