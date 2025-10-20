@@ -9,9 +9,12 @@ tags:
   - Achievement
   - Education
   - USIU-Africa
+header:
+  image: /assets/images/grad-photo.jpg
+  alt: "Graduation day at USIU–Africa"
 ---
 
-I am proud to share that on **27th September 2025**, I officially **graduated from United States International University–Africa (USIU–Africa)** in Nairobi, Kenya, with a **Bachelor of Science in Applied Computer Technology**, concentrating in **Software Engineering**.  
+I’m proud to share that on **27th September 2025**, I officially **graduated from United States International University–Africa (USIU–Africa)** in Nairobi, Kenya, with a **Bachelor of Science in Applied Computer Technology**, concentrating in **Software Engineering**.  
 
 I graduated with **_Magna Cum Laude_ honors** 🏅 and was listed on the **Dean’s List every semester** throughout my studies (2021–2025).  
 
